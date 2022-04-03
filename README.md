@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://tenor.com/view/girls-frontline-negev-lmg-gaming-running-gif-17131070" style="width:200">>
+   <img src="G.gif" style="width:200">
 </p>
 
 # Hello,This is my github page
