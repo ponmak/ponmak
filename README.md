@@ -11,4 +11,4 @@ I will keep running until I reach my dream. 🌟✨
 
 contact : peeranut.4498@gmail.com
 
-<p>&nbsp;<img align="center" scr="https://github-readme-stats.vercel.app/api?username=ponmak&theme=shadow_green" /></p>
+[![ponmak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ponmak&theme=solarized-light)](https://github.com/ponmak/github-readme-stats)
