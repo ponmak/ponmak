@@ -6,6 +6,7 @@
 
 # Hello,This is my github page
 - Just a **weeb** who try to write a code.
+- CS39 at Kasetsart University
 
 I will keep running until I reach my dream. 🌟✨
 
