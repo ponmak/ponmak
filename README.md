@@ -12,4 +12,7 @@ I will keep running until I reach my dream. 🌟✨
 
 contact : peeranut.4498@gmail.com
 
-[![ponmak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ponmak&theme=solarized-light)](https://github.com/ponmak/github-readme-stats)
+<p style="text-align: center;">
+   <img alt="github card" width="380" height="190" src='https://github-readme-stats.vercel.app/api?username=ponmak&theme=solarized-light' />
+   <img alt="discord card" width="380" height="178" src='https://lanyard.cnrad.dev/api/239960643942350850' />
+</p>
