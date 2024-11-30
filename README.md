@@ -1,8 +1,8 @@
 <p align="center">
-   <img src="https://media1.tenor.com/m/LCTE51WsNu8AAAAd/seiyuu-radio-no-uraomote-mashi.gif" style="width:1000" >
+   <img src="https://media1.tenor.com/m/iZkFoGwoh30AAAAC/shizuku-hinomori-airi-momoi.gif" style="width:1000" >
 </p>
 
-<p align="center"> wa wa wa </p>
+<p align="center"> “If I'm your ideal idol, then my ideal idol is you, Shizuku!” </p>
 
 # Hello,This is my github page
 - Just a **weeb** who try to write a code.
