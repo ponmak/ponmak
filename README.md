@@ -5,7 +5,7 @@
 <p align="center"> “If I'm your ideal idol, then my ideal idol is you, Shizuku!” </p>
 
 # Hello,This is my github page
-- Just a **weeb** who try to write a code.
+- Just a **weeb** who likes to code .
 - CS39 at Kasetsart University
 
 I will keep running until I reach my dream. 🌟✨
